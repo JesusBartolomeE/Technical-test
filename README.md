@@ -30,5 +30,7 @@
 * No usa framework
 * Entrega Test Unitarios
 * Presenta un diseño de su solución
+### Diagrama de solución
+![diagramatangelo](https://user-images.githubusercontent.com/62122521/172021888-5dc99775-7e42-4946-a513-5c1cead90c9f.jpg)
 
 
