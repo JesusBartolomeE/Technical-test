@@ -1,5 +1,5 @@
 # Technical Test
-*Technical test made for the company tangelo
+* Technical test made for the company Tangelo
 ### Stack 
 
 * Python 
@@ -7,10 +7,12 @@
 * SQLite
 ### Test requirements
 
+
 * Desarrolle una aplicación en python que genere la tabla anterior teniendo las siguientes consideraciones:
 
-
 * De https://restcountries.com/ obtenga el nombre del idioma que habla el país y encriptelo con SHA1 
+
+* Para esta prueba se requirie solo la región de **Africa** y el pais **Angola**
 
 * En la columna Time ponga el tiempo que tardó en armar la fila (debe ser automático)
 
