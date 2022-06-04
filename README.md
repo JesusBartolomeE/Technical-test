@@ -10,6 +10,8 @@
  
  ![alt](https://user-images.githubusercontent.com/62122521/172021432-7a38dce8-d48f-4bf2-98f2-3fb8fd625aa1.png)
 
+![Tabla](https://user-images.githubusercontent.com/62122521/172021432-7a38dce8-d48f-4bf2-98f2-3fb8fd625aa1.png)
+
 * Desarrolle una aplicación en python que genere la tabla anterior teniendo las siguientes consideraciones:
 
   * De https://restcountries.com/ obtenga el nombre del idioma que habla el país y encriptelo con SHA1 
@@ -28,6 +30,7 @@
 
 * La prueba debe ser entregada en un repositorio git.
 
+<<<<<<< HEAD
   * Es un plus si:
   * No usa framework
   * Entrega Test Unitarios
@@ -41,5 +44,14 @@
   * 
 
 ## Ejecutar Test
+=======
+* Es un plus si:
+* No usa framework
+* Entrega Test Unitarios
+* Presenta un diseño de su solución
+### Diagrama de solución
+![diagramatangelo](https://user-images.githubusercontent.com/62122521/172021888-5dc99775-7e42-4946-a513-5c1cead90c9f.jpg)
+
+>>>>>>> ae7434678dcc495e77c8fdc92b105c7325a911c4
 
     pytest test_countries.py
