@@ -31,4 +31,4 @@
 * Entrega Test Unitarios
 * Presenta un diseño de su solución
 
-![Diagrama_Tangelo](https://user-images.githubusercontent.com/62122521/172021275-c80b2602-532a-4d7d-99e2-98051b2ae11e.jpg)
+
