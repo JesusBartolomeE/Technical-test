@@ -6,6 +6,9 @@
 * Pandas
 * SQLite
 ### Test requirements
+x-special/nautilus-clipboard
+copy
+file:///home/bart/Escritorio/Tabla.png
 
 * Desarrolle una aplicación en python que genere la tabla anterior teniendo las siguientes consideraciones:
 
