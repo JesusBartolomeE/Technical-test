@@ -7,8 +7,6 @@
 * SQLite
 ### Test requirements
 
-![Tabla](https://user-images.githubusercontent.com/62122521/172021432-7a38dce8-d48f-4bf2-98f2-3fb8fd625aa1.png)
-
 * Desarrolle una aplicación en python que genere la tabla anterior teniendo las siguientes consideraciones:
 
 
@@ -31,6 +29,6 @@
 * Entrega Test Unitarios
 * Presenta un diseño de su solución
 ### Diagrama de solución
-![diagramatangelo](https://user-images.githubusercontent.com/62122521/172021888-5dc99775-7e42-4946-a513-5c1cead90c9f.jpg)
+
 
 
