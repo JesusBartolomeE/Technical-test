@@ -43,16 +43,18 @@ Es necesario contar con SQLite en local, se recomienda contar con una herramient
 ## Instalación
   * Clone el repositorio. 
 
-    git clone https://github.com/JesusBartolomeE/Technical-test.git
-
+        git clone https://github.com/JesusBartolomeE/Technical-test.git
   * Ubique la carpeta donde clono el repositorio.
-    cd Technical-test/
+
+        cd Technical-test/
 
   * Cree su entorno virtual.
-    virtualenv venv -p python3
+
+        virtualenv venv -p python3
 
   * Active el entorno virtual.
-    source venv/bin/activate    
+
+        source venv/bin/activate    
     
 ## Ejecutar en local
 Para ejecutar en local descargue o clone el proyecto, después de haber clonado o descargado habrá el proyecto en su editor de código, originalmente se desarrollo en VS.
